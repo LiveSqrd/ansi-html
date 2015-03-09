@@ -5,7 +5,7 @@ var re_ansi = /(?:(?:\u001b\[)|\u009b)(?:(?:[0-9]{1,3})?(?:(?:;[0-9]{0,3})*)?[A-
 
 // Specific open tags.
 var openTags = {
-  '0' : 'font-weight:normal;opacity:1;color:#000;background:transparent',
+  '0' : 'font-weight:normal;opacity:1;color:#888;background:transparent',
   '1' : 'font-weight:bold',
   '2' : 'opacity:0.8',
   '3' : '<i>',
