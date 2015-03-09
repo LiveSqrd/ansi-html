@@ -1,5 +1,5 @@
 {
-  "name": "ansi-html",
+  "name": "@lsq/ansi-html",
   "version": "0.0.4",
   "description": "An elegant lib that converts the chalked (ANSI) text to HTML.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Tjatse/ansi-html.git"
+    "url": "git://github.com/LiveSqrd/ansi-html.git"
   },
   "keywords": [
     "ansi",
@@ -20,7 +20,7 @@
   },
   "license": "Apache, Version 2.0",
   "bugs": {
-    "url": "https://github.com/Tjatse/ansi-html/issues"
+    "url": "https://github.com/LiveSqrd/ansi-html/issues"
   },
   "engines": [
     "node >= 0.8.0"
@@ -34,5 +34,5 @@
     "lodash": "~2.4.1"
   },
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/Tjatse/ansi-html"
+  "homepage": "https://github.com/LiveSqrd/ansi-html"
 }
